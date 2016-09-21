@@ -66,4 +66,12 @@
         android:textSize="20sp"
         android:onClick="onClickCourseSequence"/>
 
+    <TextView
+        android:id="@+id/my_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="Created by Michael Grusnick"
+        android:layout_below="@+id/cs_button" />
+
 </RelativeLayout>

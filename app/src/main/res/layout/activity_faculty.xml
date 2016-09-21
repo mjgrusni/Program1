@@ -22,7 +22,8 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="This is some filler text."/>
+        android:textSize="12sp"
+        android:text="Assistant Professor of Computer Science &amp; Information Systems"/>
     <ImageView
         android:layout_width="85dp"
         android:layout_height="100dp"
@@ -34,7 +35,8 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="This is some filler text."/>
+        android:textSize="12sp"
+        android:text="Associate Professor of Computer Science &amp; Information Systems"/>
     <ImageView
         android:layout_width="85dp"
         android:layout_height="100dp"
@@ -46,7 +48,8 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="This is some filler text."/>
+        android:textSize="12sp"
+        android:text="Associate Professor of Computer Science &amp; Information Systems"/>
 
     <Button
         android:layout_width="match_parent"
