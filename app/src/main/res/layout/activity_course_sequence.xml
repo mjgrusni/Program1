@@ -48,7 +48,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="18sp"
-        android:text="CS"
+        android:text="MATH 103"
         android:id="@+id/cs_fall_1"/>
     <TextView
         android:layout_column="2"
@@ -56,7 +56,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="18sp"
-        android:text="CIS"
+        android:text="COMM 105A"
         android:id="@+id/cis_fall_1"/>
     <TextView
         android:layout_column="0"
@@ -72,7 +72,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="18sp"
-        android:text="CS"
+        android:text="MATH 161"
         android:id="@+id/cs_winter_1"/>
     <TextView
         android:layout_column="2"
@@ -80,7 +80,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="18sp"
-        android:text="CIS"
+        android:text="MATH 162"
         android:id="@+id/cis_winter_1"/>
     <TextView
         android:layout_column="0"
@@ -96,7 +96,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="18sp"
-        android:text="CS"
+        android:text="CS 216"
         android:id="@+id/cs_fall_2"/>
     <TextView
         android:layout_column="2"
@@ -104,7 +104,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="18sp"
-        android:text="CIS"
+        android:text="CIS 255"
         android:id="@+id/cis_fall_2"/>
     <TextView
         android:layout_column="0"
@@ -120,7 +120,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="18sp"
-        android:text="CS"
+        android:text="CS 245"
         android:id="@+id/cs_winter_2"/>
     <TextView
         android:layout_column="2"
@@ -128,7 +128,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="18sp"
-        android:text="CIS"
+        android:text="CIS 311"
         android:id="@+id/cis_winter_2"/>
     <TextView
         android:layout_column="0"
@@ -144,7 +144,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="18sp"
-        android:text="CS"
+        android:text="CS 316"
         android:id="@+id/cs_fall_3"/>
     <TextView
         android:layout_column="2"
@@ -152,7 +152,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="18sp"
-        android:text="CIS"
+        android:text="CIS 366"
         android:id="@+id/cis_fall_3"/>
     <TextView
         android:layout_column="0"
@@ -168,7 +168,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="18sp"
-        android:text="CS"
+        android:text="CS 411"
         android:id="@+id/cs_winter_3"/>
     <TextView
         android:layout_column="2"
@@ -176,7 +176,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="18sp"
-        android:text="CIS"
+        android:text="CIS 357"
         android:id="@+id/cis_winter_3"/>
     <TextView
         android:layout_column="0"
@@ -192,7 +192,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="18sp"
-        android:text="CS"
+        android:text="CS 401"
         android:id="@+id/cs_fall_4"/>
     <TextView
         android:layout_column="2"
@@ -200,7 +200,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="18sp"
-        android:text="CIS"
+        android:text="CIS 422"
         android:id="@+id/cis_fall_4"/>
     <TextView
         android:layout_column="0"
@@ -216,7 +216,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="18sp"
-        android:text="CS"
+        android:text="CS 416"
         android:id="@+id/cs_winter_4"/>
     <TextView
         android:layout_column="2"
@@ -224,7 +224,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="18sp"
-        android:text="CIS"
+        android:text="CIS 490"
         android:id="@+id/cis_winter_4"/>
     <Button
         android:layout_row="9"
