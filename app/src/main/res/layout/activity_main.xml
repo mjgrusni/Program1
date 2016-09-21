@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.mjgrusni.program1.MainActivity">
+
+    <TextView
+        android:id="@+id/mission_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mission"
+        android:textSize="24sp" />
+    <TextView
+        android:id="@+id/mission_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/mission_text"
+        android:layout_below="@+id/mission_title" />
+    <TextView
+        android:id="@+id/common_core_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CS/CIS Common Core"
+        android:layout_below="@+id/mission_text"
+        android:textSize="24sp" />
+    <TextView
+        android:id="@+id/common_core_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/common_core_text"
+        android:layout_below="@+id/common_core_title" />
+    <TextView
+        android:id="@+id/differences_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CS/CIS Differences"
+        android:layout_below="@+id/common_core_text"
+        android:textSize="24sp"/>
+    <TextView
+        android:id="@+id/differences_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/differences_text"
+        android:layout_below="@+id/differences_title" />
+    <Button
+        android:id="@+id/faculty_button"
+        android:layout_width="500dp"
+        android:layout_height="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/differences_text"
+        android:text="Faculty"
+        android:textSize="20sp"
+        android:onClick="onClickFaculty"/>
+    <Button
+        android:id="@+id/cs_button"
+        android:layout_width="500dp"
+        android:layout_height="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/faculty_button"
+        android:text="Course Sequence"
+        android:textSize="20sp"
+        android:onClick="onClickCourseSequence"/>
+
+</RelativeLayout>

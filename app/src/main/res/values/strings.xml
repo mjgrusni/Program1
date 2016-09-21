@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Program1</string>
+    <string name="mission_text">The mission of the Department of Computer Science and Information Systems at SVSU is to provide an outstanding education to its students in accordance with the guidelines of the SVSU mission, to advance scholarship in the key domains of the computing and information systems sciences, and to engage in activities that improve the welfare of society and enhance the reputation of SVSU.</string>
+    <string name="common_core_text">CS and CIS have classes in common. These classes are classes that you take. If that seems redundant, it is because this is just a bunch of filler text.</string>
+    <string name="differences_text">Obviously CS and CIS are different, otherwise they\'d be the same thing. This means they do take different classes. Again, this is also just filler text</string>
+    <string name="corser_bio">George Corser is an Assistant Professor of Computer Science and Information Systems (CSIS) at Saginaw Valley State University (SVSU). His research defines and analyzes location privacy and security protocols in vehicle networks. His teaching explores web and mobile app development, theoretical computer science and cybercrime. </string>
+    <string name="corser_name"> George Corser</string>
+    <string name="bidgoli_bio"> Master of Science\nUniv Nebraska-Lincoln</string>
+    <string name="bidgoli_name"> Moe Bidgoli</string>
+    <string name="cho_bio">Il-Hyung Cho is an associate professor and chair of the Department of Computer Science at Saginaw Valley State University, Michigan, where he has been since 2003. During 2010-2011 he was a Visiting Professor of Bioinformatics lab at Washington State University.</string>
+    <string name="cho_name">Il-Hyung Cho</string>
+</resources>
